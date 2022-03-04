@@ -6,7 +6,7 @@ Utilities to make it easy to work with cloud storage software
 2. Ceph Storage
 3. CORTX Object Storage
 
-## Ceph Storage Deployment (Bare Metal)
+## Ceph Storage Deployment (Non Kubernetes deployment)
 1. Prepare 1 or N server nodes with disks where Ceph needs to deployed. 
 
 2. Ensure root password-less-access between the nodes, has been setup.

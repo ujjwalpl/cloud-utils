@@ -11,7 +11,7 @@ Utilities to make it easy to work with cloud storage software
 
 2. Ensure root password-less-access between the nodes, has been setup.
  
-3. Edit storage/ceph/ceph-adm/ceph-adm.conf and add your node details (Be careful to review)
+3. Edit **storage/ceph/ceph-adm/ceph-adm.conf** and add your node details (Be careful to review)
 
 4. Run following commands (Use --noprompt in case of automated deployment) 
 
